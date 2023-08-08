@@ -1,9 +1,10 @@
 # quiz_app
 
-A new Flutter project.![Capture1](https://github.com/98pritom/quiz-app/assets/91086144/84e60bac-d5ea-4721-9098-15a677e7319b)
+A new Flutter project.
+![Capture1](https://github.com/98pritom/quiz-app/assets/91086144/84e60bac-d5ea-4721-9098-15a677e7319b)
+![Capture2](https://github.com/98pritom/quiz-app/assets/91086144/255e9c94-3f1b-4688-aa8a-345b8a1181c2)
 
 ![Capture3](https://github.com/98pritom/quiz-app/assets/91086144/7e5f076f-9005-4d2e-b1f9-cf3e348cc720)
-![Uploading Capture2.PNG…]()
 
 ![Capture4](https://github.com/98pritom/quiz-app/assets/91086144/b996b8ad-6791-4a05-806f-8a96b78d817b)
 
