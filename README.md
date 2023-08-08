@@ -1,6 +1,7 @@
 # quiz_app
 
 A new Flutter project.
+
 ![Capture1](https://github.com/98pritom/quiz-app/assets/91086144/84e60bac-d5ea-4721-9098-15a677e7319b)
 
 ![Capture2](https://github.com/98pritom/quiz-app/assets/91086144/255e9c94-3f1b-4688-aa8a-345b8a1181c2)
